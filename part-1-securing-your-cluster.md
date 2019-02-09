@@ -203,3 +203,4 @@ kubectl delete ns policy-demo
 
 This was just a simple example of the Kubernetes NetworkPolicy API and how Calico can secure your Kubernetes cluster.
 
+[Next Part 2 Stars Example](.//part-2-stars-example.md)
