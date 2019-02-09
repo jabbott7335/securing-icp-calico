@@ -39,3 +39,5 @@ cloudctl login -a https://10.10.1.10:8443 --skip-ssl-validation
 Select the **cloudcluster** account and the **default** namespace when prompted.
 
 ![image-20190206134821506](images/cliinit.png)
+
+[Next continue on to Part 1 Securing Your Cluster with NetworkPolicy](./part-1-securing-your-cluster.md)
