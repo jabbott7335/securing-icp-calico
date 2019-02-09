@@ -81,3 +81,4 @@ kubectl create -f https://docs.projectcalico.org/v3.5/getting-started/kubernetes
 
 The client can now access the frontend, but not the backend. Neither the frontend nor the backend can initiate connections to the client. The frontend can still access the backend.
 
+[Next Part 3 Controlling Ingress and Egress](./part-3-ingress-egress.md)
